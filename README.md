@@ -55,6 +55,7 @@ The pre-requisites need to develop the project.
 │   │   ├── Methodology_ETH(Updated).ipynb 
 ├── LICENSE
 ├── README.md
+├── functions.py
 └── requirements.text
 ```
 
